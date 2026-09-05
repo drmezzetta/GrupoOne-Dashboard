@@ -1,7 +1,0 @@
-{
-  "_nota": "Mapeo código de sucursal (el que usa la API de Ventas como 'Store') -> nombre comercial, sociedad dueña, y su Centro/Storage Location (los que usan las APIs de Stock y Rentabilidad como Werks/Lgort). ⚠️ plant/storageLocation son un SUPUESTO: asumimos que 'Store' de Ventas corresponde 1 a 1 con un Centro+Storage Location de Stock/Rentabilidad. Falta confirmar esa equivalencia contra el maestro real de sociedades/centros — reemplazar este archivo por la fuente real apenas la tengamos.",
-  "T011": { "name": "Palermo", "companyCode": "AR10", "plant": "KI01", "storageLocation": "KT11" },
-  "T012": { "name": "Recoleta", "companyCode": "AR10", "plant": "KI02", "storageLocation": "KT12" },
-  "KI01": { "name": "Núñez", "companyCode": "AR20", "plant": "KI01", "storageLocation": "KT11" },
-  "KI02": { "name": "Belgrano", "companyCode": "AR20", "plant": "KI02", "storageLocation": "KT12" }
-}
