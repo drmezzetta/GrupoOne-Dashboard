@@ -1,0 +1,9 @@
+{
+  "_nota": "Descripción/categoría por SKU. Nos confirmaste que existe un maestro de materiales real (API/BAPI) — apenas tengamos el endpoint, esto se reemplaza por una llamada real (o por un snapshot cacheado del maestro, que suele ser una tabla grande y poco cambiante). Hoy es solo para que el dashboard funcione de punta a punta con datos de muestra.",
+  "000000000004195021": { "description": "Remera básica algodón", "category": "Hombre" },
+  "000000000004435748": { "description": "Cinturón cuero reversible", "category": "Accesorios" },
+  "000000000002648471": { "description": "Zapatilla urbana bajo", "category": "Calzado" },
+  "000000000002415768": { "description": "Campera liviana acolchada", "category": "Mujer" },
+  "000003492211014827": { "description": "Bufanda lana mixta", "category": "Accesorios" },
+  "000000000003720934": { "description": "Pantalón chino slim", "category": "Hombre" }
+}
