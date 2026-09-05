@@ -1,7 +1,0 @@
-{
-  "_nota": "Mapeo código de sociedad -> nombre comercial. Nos confirmaste que existe una API/tabla de sociedades en SAP; en cuanto nos pases el endpoint (o un export), reemplazamos este archivo estático por una llamada real en server/services/masterDataService.js. Mientras tanto, agregá/editá acá los códigos reales de tu grupo.",
-  "AR10": { "name": "Alma", "country": "Argentina" },
-  "AR20": { "name": "Nortec", "country": "Argentina" },
-  "UY10": { "name": "Bruma", "country": "Uruguay" },
-  "CL15": { "name": "Estación Sur", "country": "Chile" }
-}
